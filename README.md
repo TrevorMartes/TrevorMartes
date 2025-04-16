@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]('insert link')
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Car Parts ]('insert link')<b><i>(Potentially NSFW)</b></i>
+  - [Car Parts ]('insert link')
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]('insert link')
   - [Active Directory Bulk User Creation]('insert link')
