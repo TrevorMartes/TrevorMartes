@@ -16,7 +16,7 @@
   - [CAN-BUS Hardware and Reverse engineering]('insert link')
   - [ESP-32 Remote Virtual Keyboard]('insert link')
 - <b>Python</b>
-  - [Password Generator]('insert link')
+  - [Password Generator](https://github.com/trevboy/PasswordTools/blob/main/PasswordGenerator.py)
 
 <h2>📺 Popular YouTube Videos</h2>
 
