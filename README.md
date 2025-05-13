@@ -1,4 +1,4 @@
-<h1>Hi, I'm Trevor! <br/><a href="https://www.linkedin.com/in/trevormartes">IT Professional</a>, <a href="https://github.com/trevboy">Programmer</a>, <a href="https://www.youtube.com/c/insertlink">YouTuber</a></h1>
+<h1>Hi, I'm Trevor! <br/><a href="https://www.linkedin.com/in/trevormartes">IT Professional</a>, <a href="https://github.com/trevboy">Programmer</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
