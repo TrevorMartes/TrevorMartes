@@ -17,6 +17,11 @@
   - [ESP-32 Remote Virtual Keyboard]('insert link')
 - <b>Python</b>
   - [Password Generator](https://github.com/trevboy/PasswordTools/blob/main/PasswordGenerator.py)
+ 
+<h2>👨‍💻 Other Projects:</h2>
+
+- <b>Electronics</b>
+  - [Lily58 Split Keyboard](https://github.com/trevboy/8bit_Lily.git)
 
 <h2>📺 Popular YouTube Videos</h2>
 
