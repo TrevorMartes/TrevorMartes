@@ -10,7 +10,7 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]('insert link')
   - [Active Directory Bulk User Creation]('insert link')
   - [FIM (File Integrity Monitor)]('insert link')
-- <b>C# (.NET Desktop Applications)</b>
+- <b>C++</b>
   - [Ransomware Proof of Concept (Encrypter)]('insert link')
   - [Ransomware Proof of Concept (Decrypter)]('insert link'
   - [CAN-BUS Hardware and Reverse engineering](https://github.com/trevboy/CANaBUS.git)
