@@ -6,15 +6,15 @@
   - [Praciting DS & Algos in Python]('insert link') --> 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Python)</b>
   - [CarPartPicker](https://github.com/trevboy/CarPartPicker.git)
-- <b>PowerShell</b>
-<!--  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]('insert link')
+<!-- - <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]('insert link')
   - [Active Directory Bulk User Creation]('insert link')
   - [FIM (File Integrity Monitor)]('insert link') -->
 - <b>C++</b>
-<!--  - [Ransomware Proof of Concept (Encrypter)]('insert link')
-  - [Ransomware Proof of Concept (Decrypter)]('insert link' -->
   - [CAN-BUS Hardware and Reverse engineering](https://github.com/trevboy/CANaBUS.git)
   - [ESP-32 Virtual Keyboard](https://github.com/trevboy/Virtual_Keyboard-ESP_32.git)
+<!--  - [Ransomware Proof of Concept (Encrypter)]('insert link')
+  - [Ransomware Proof of Concept (Decrypter)]('insert link') -->
 - <b>Python</b>
   - [Password Generator](https://github.com/trevboy/PasswordTools/blob/main/PasswordGenerator.py)
  
