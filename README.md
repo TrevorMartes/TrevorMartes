@@ -5,7 +5,7 @@
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]('insert link') --> 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Python)</b>
-  - [CarPartPicker](https://github.com/trevboy/CarPartPicker.git)
+  - [PartPicker](https://github.com/trevboy/CarPartPicker.git)
 <!-- - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]('insert link')
   - [Active Directory Bulk User Creation]('insert link')
