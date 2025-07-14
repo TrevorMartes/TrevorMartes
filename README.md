@@ -1,34 +1,21 @@
 <h1>Hi, I'm Trevor! <br/><a href="https://www.linkedin.com/in/trevormartes">IT Professional</a> and <a href="https://github.com/trevboy">Programmer</a> </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity and Featured Projects:</h2>
 
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python]('insert link') --> 
+  - [Praciting DS & Algos in Python]('insert link') 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Python)</b>
-  - [PartPicker](https://github.com/trevboy/CarPartPicker.git)
+  <!--- [PartPicker](https://github.com/trevboy/CarPartPicker.git)-->
 <!-- - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]('insert link')
-  - [Active Directory Bulk User Creation]('insert link')
-  - [FIM (File Integrity Monitor)]('insert link') -->
+  - [Active Directory Bulk User Creation]('insert link') 
 - <b>C++</b>
   - [ESP-32 Virtual Keyboard](https://github.com/trevboy/Virtual_Keyboard-ESP_32.git)
 <!--  - [Ransomware Proof of Concept (Encrypter)]('insert link')
   - [Ransomware Proof of Concept (Decrypter)]('insert link') -->
 - <b>Python</b>
   - [Password Generator](https://github.com/trevboy/PasswordTools/blob/main/PasswordGenerator.py)
- 
-<h2>👨‍💻 Other Projects:</h2>
-
-- <b>Electronics</b>
- <!-- - [Lily58 Split Keyboard](https://github.com/trevboy/8bit_Lily.git) -->
-
-<!-- <h2>📺 Popular YouTube Videos</h2>
-
-- [Lilygo T-enable]('Insert link')
-- [SEIM and Cloud infrastructure]('Insert link')
-- [Home lab]('Insert link')
-- [Network/Vulnerability Scanner (Python)]('Insert link')
-- [My experience at WGU]('Insert link') -->
+  - [FIM (File Integrity Monitor)](https://github.com/TrevorMartes/File-Integrity)
 
 <h2> 🤳 Connect with me:</h2>
 
