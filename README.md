@@ -20,7 +20,6 @@
 <h2> 🤳 Connect with me:</h2>
 
 <!-- [<img align="left" alt="     | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Trevor Martes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Trevor Martes | LinkedIn" width="22px" src="https://www.citypng.com/public/uploads/preview/linkedin-square-white-icon-transparent-png-701751694974206tsxnbf2rft.png" />][linkedin]
 <!-- [youtube]: https://www.youtube.com/c/ -->
 [linkedin]: https://linkedin.com/in/trevormartes
-
